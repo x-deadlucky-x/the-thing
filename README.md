@@ -44,15 +44,14 @@ This is science done with bare hands and sharp teeth — rigorous, interdiscipli
 ## 📂 What’s in the Repository?
 
 /the-thing
-/notes — Unfiltered fragments straight from the neural furnace
-/theory — Core models, maps, and conceptual architecture
-/autoethnography — Structured lived-data from a 38-year longitudinal arc
-/genealogy — Ancestral evidence, lineage structures, historical crosswalks
-/shadowcraft — Cognitive system schematics and operator protocols
-/references — External sources, bibliographies, and academic scaffolding
-/drafts — Early chapter prototypes and structural experiments
-README.md — You are here
-
+/notes               — Unfiltered fragments straight from the neural furnace
+/theory              — Core models, maps, and conceptual architecture
+/autoethnography     — Structured lived-data from a 38-year longitudinal arc
+/genealogy           — Ancestral evidence, lineage structures, historical crosswalks
+/shadowcraft         — Cognitive system schematics and operator protocols
+/references          — External sources, bibliographies, and academic scaffolding
+/drafts              — Early chapter prototypes and structural experiments
+README.md            — You are here
 
 *(Folders are placeholders until the archive stabilizes.)*
 
