@@ -41,5 +41,63 @@ This is science done with bare hands and sharp teeth — rigorous, interdiscipli
 
 ---
 
-## 📂 What’s in the Repo
+## 📂 What’s in the Repository?
+
+/the-thing
+/notes — Unfiltered fragments straight from the neural furnace
+/theory — Core models, maps, and conceptual architecture
+/autoethnography — Structured lived-data from a 38-year longitudinal arc
+/genealogy — Ancestral evidence, lineage structures, historical crosswalks
+/shadowcraft — Cognitive system schematics and operator protocols
+/references — External sources, bibliographies, and academic scaffolding
+/drafts — Early chapter prototypes and structural experiments
+README.md — You are here
+
+
+*(Folders are placeholders until the archive stabilizes.)*
+
+---
+
+## 🔒 License & Legal Terrain
+
+No license.  
+Not yet.
+
+Until a license is formally added, this project is **All Rights Reserved**.
+
+Translation:  
+You can **read** it, but you cannot **use**, **copy**, **modify**, **train**, **publish**, **profit from**, or **incorporate** any part of this work — in any medium — without explicit written permission.
+
+A non-commercial open license (likely **CC BY-NC-SA 4.0**) will be considered later, once the research solidifies and the predators finish circling.
+
+---
+
+## 📜 How to Cite (For Now)
+
+If discussing or referencing this project:
+
+**Lucky (Tara). *The Thing-in-Itself: Entropy, Epigenetics, & Evolution.*  
+GitHub Repository. Accessed YEAR.**
+
+You’re welcome to analyze it.  
+You’re not welcome to annex it.
+
+---
+
+## 🌀 Current Status
+
+Active development.  
+Expect spirals, expansions, restructures, and the occasional theoretical explosion.  
+This is a living archive with no intention of staying still.
+
+---
+
+## 🧭 Contact
+
+For dialogue, collaboration inquiries, or permissions:
+
+**Tara McNeely aka “Dead Lucky” — Dead Lucky Productions**
+“Where the poem fails and the proof begins, you’ll find me — carving the record with a bard’s blade and a historian’s hand.”
+Website: https://xdeadluckyx.com
+Email: lucky@deadlucky.com
 
