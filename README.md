@@ -98,5 +98,4 @@ For dialogue, collaboration inquiries, or permissions:
 **Tara McNeely aka “Dead Lucky” — Dead Lucky Productions**
 “Where the poem fails and the proof begins, you’ll find me — carving the record with a bard’s blade and a historian’s hand.”
 Website: https://xdeadluckyx.com
-Email: lucky@deadlucky.com
-
+Email: xdeadluckyxATgmailDOTcom
